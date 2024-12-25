@@ -66,6 +66,9 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 
+## Download the JSON file 
+Download the [Json file](https://drive.google.com/file/d/1D0IHNLErOPfB7O-WaYjXV6vfmfL0V_Mi/view?usp=drive_link) and add to the path ```storage/app/json``` in your project.
+
 ## Run this command to import all the country and states with cities in your DB
 
 - php artisan geo:import
